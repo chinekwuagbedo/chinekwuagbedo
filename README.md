@@ -1,12 +1,12 @@
 # I'm Simone
 
-I'm a **Biomedical Engineering student at Texas A&M** with a passion for building cool things — mostly games — and getting deep within the crossroads of biology and computer science.
+I'm a **Biomedical Engineering student at Texas A&M** with a passion for building cool things (mostly games) and getting deep within the crossroads of biology and computer science.
 
 ## What I'm About
 
 What I'm currently using this for is **game development**. You'll find some of my games here on GitHub, but I've got plenty more tucked away on my hard drive that didn't quite make the cut for upload (Unity has their own cloud as well).
 
-Beyond games, I'm equally passionate about **biomedical engineering and bioinformatics**—I'm currently doing undergraduate research on felid sex chromosomes in the Texas A&M Department of Veterinary Integrative Biosciences.
+Beyond games, I'm equally passionate about **biomedical engineering and bioinformatics** — I'm currently doing undergraduate research on felid sex chromosomes in the Texas A&M Department of Veterinary Integrative Biosciences.
 
 ## My Toolkit
 
