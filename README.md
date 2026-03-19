@@ -1,6 +1,6 @@
 # I'm Simone
 
-I'm a **Biomedical Engineering student at Texas A&M** with a passion for building cool things (mostly games) and getting deep within the crossroads of biology and computer science.
+I'm a **Biomedical Engineering student at Texas A&M** with a passion for building things (mostly games), but some academic material as well.
 
 ## What I'm About
 
@@ -12,6 +12,7 @@ Beyond games, I'm equally passionate about **biomedical engineering and bioinfor
 
 **Languages I'm solid with:**
 - **Java** (seriously, I've got extensive experience here, my go-to)
+- Javascript
 - C++** / C#
 - Python
 - R** (not my strong suit)
