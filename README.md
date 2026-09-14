@@ -16,12 +16,12 @@ Beyond games, I'm equally passionate about **biomedical engineering and bioinfor
 - Javascript
 - C++** / C#
 - Python
-- R** (not my strong suit)
+- R** 
 - Bash
-- GDScript (very new, uncharted territory)
+- GDScript 
 
 **Tools & Frameworks:**
-- Unity (game jams are my jam)
+- Unity
 - AutoCAD**
 
 **Certs:** IT Java Specialist, Microsoft Office 365 Specialist
