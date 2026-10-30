@@ -18,11 +18,16 @@ Beyond games, I'm equally passionate about **biomedical engineering and bioinfor
 - Python
 - R** 
 - Bash
-- GDScript 
+- GDScript
+- Typescript
+- CSS
 
 **Tools & Frameworks:**
 - Unity
 - AutoCAD**
+- React Native/React
+- Vite
+- GSAP
 
 **Certs:** IT Java Specialist, Microsoft Office 365 Specialist
 
